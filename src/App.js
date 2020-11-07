@@ -10,7 +10,7 @@ class App extends React.Component{
   render(){
     return (
       <div>
-        Hello {this.state.name}
+       asdasdasdo {this.state.name}
       </div>
     )
   }
